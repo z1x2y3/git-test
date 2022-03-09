@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello,master commit");
         System.out.println("hello hot fix commit");
         System.out.println("push test to remote");
+        System.out.println("wangye change");
     }
 }
